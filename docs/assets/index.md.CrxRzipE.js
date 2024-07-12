@@ -1,1 +1,0 @@
-import{c as e,o as t}from"./chunks/framework.BtNIm_Z3.js";const c=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"index.md","filePath":"index.md"}'),a={name:"index.md"},s=Object.assign(a,{setup(n){return window.location.href=window.location.href+"/zh-CN",(o,r)=>(t(),e("div"))}});export{c as __pageData,s as default};
