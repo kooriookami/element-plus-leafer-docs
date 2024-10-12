@@ -1,1 +1,0 @@
-import{c as e,o as t}from"./chunks/framework.DUrWDx4n.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"index.md","filePath":"index.md"}'),n={name:"index.md"},c=Object.assign(n,{setup(a){return typeof window<"u"&&(window.location.href=window.location.href+"zh-CN/"),(o,i)=>(t(),e("div"))}});export{d as __pageData,c as default};
